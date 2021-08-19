@@ -1,0 +1,22 @@
+{
+  "name": "personalbudget",
+  "version": "1.0.0",
+  "description": "portfolio project codecademy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pippo223/PersonalBudget.git"
+  },
+  "author": "Philip Owusu Asare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pippo223/PersonalBudget/issues"
+  },
+  "homepage": "https://github.com/Pippo223/PersonalBudget#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
